@@ -12,5 +12,5 @@ Train.csv - It is the training data containing the features of customers, along 
 Data_Dictionary.xlsx - It contains a brief description of every variable provided in the training and test set.
 Test.csv: - It contains details of the customers for which the participants need to predict the average spend for the next three months
 sample_submission.csv - This is a sample file of the format in which you have to submit your predictions on GLabs.
-##Evaluation Criteria: <br/>
+## Evaluation Criteria: <br/>
 The average predicted spend of customers for the next three months would be evaluated using Root of Mean Squared Logarithmic Error i.e RMSLE.
