@@ -7,6 +7,7 @@ Thus it is important to understand the relationship between the customer profile
 CMB Bank has given customer details, like age, gender and other demographics. Also shared are information on liabilities, assets and history of transactions with the bank for each customer. In addition to the above, data has been provided for a particular set of customers' credit card spend in the previous 3 months (April, May & June) and their expected average spend in the coming 3 months (July, August & September). Predict the average spend for a different set of customers in the test set for the coming 3 months.
 ## About the dataset : <br/>
 The data folder data.zip that is provided to you contains the following files:
+
 Train.csv - It is the training data containing the features of customers, along with their average credit card spend for the next three months.
 Data_Dictionary.xlsx - It contains a brief description of every variable provided in the training and test set.
 Test.csv: - It contains details of the customers for which the participants need to predict the average spend for the next three months
